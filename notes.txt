@@ -1,0 +1,2 @@
+So far Im enjoying Git--it's going to take some time to more or less memorize all of the commands, but that's been true for everything done in the terminal. Git has been pretty easy to pick up so far, though!
+I have used Mercurial and BitBucket for a few projects in the past, so the concepts are familiar, but the command line feels very different than a GUI based version control. No big surprise there, haha!
